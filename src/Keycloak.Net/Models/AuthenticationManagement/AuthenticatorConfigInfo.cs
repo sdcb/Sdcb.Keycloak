@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Keycloak.Net.Models.Common;
+using Sdcb.Keycloak.Models.Common;
 using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.AuthenticationManagement
+namespace Sdcb.Keycloak.Models.AuthenticationManagement
 {
     public class AuthenticatorConfigInfo
     {

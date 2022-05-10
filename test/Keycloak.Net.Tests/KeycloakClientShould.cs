@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using Microsoft.Extensions.Configuration;
 
-namespace Keycloak.Net.Tests
+namespace Sdcb.Keycloak.Tests
 {
     public partial class KeycloakClientShould
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.ClientAttributeCertificate
+namespace Sdcb.Keycloak.Models.ClientAttributeCertificate
 {
     public class Certificate
     {

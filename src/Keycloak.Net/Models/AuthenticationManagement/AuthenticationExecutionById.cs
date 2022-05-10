@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.AuthenticationManagement
+namespace Sdcb.Keycloak.Models.AuthenticationManagement
 {
     public class AuthenticationExecutionById
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.ClientScopes
+namespace Sdcb.Keycloak.Models.ClientScopes
 {
     public class Attributes
     {

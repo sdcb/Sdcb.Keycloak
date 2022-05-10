@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.UserStorageProvider
+namespace Sdcb.Keycloak.Models.UserStorageProvider
 {
     public class SynchronizationResult
     {

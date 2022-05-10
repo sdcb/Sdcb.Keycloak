@@ -2,9 +2,9 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 using Flurl.Http;
-using Keycloak.Net.Models.UserStorageProvider;
+using Sdcb.Keycloak.Models.UserStorageProvider;
 
-namespace Keycloak.Net
+namespace Sdcb.Keycloak
 {
     public partial class KeycloakClient
     {

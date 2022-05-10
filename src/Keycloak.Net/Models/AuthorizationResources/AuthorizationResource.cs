@@ -1,8 +1,8 @@
-﻿using Keycloak.Net.Models.AuthorizationScopes;
+﻿using Sdcb.Keycloak.Models.AuthorizationScopes;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace Keycloak.Net.Models.AuthorizationResources
+namespace Sdcb.Keycloak.Models.AuthorizationResources
 {
     public class AuthorizationResource
     {

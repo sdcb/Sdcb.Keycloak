@@ -1,9 +1,9 @@
 ﻿using Flurl.Http;
-using Keycloak.Net.Models.AuthorizationResources;
+using Sdcb.Keycloak.Models.AuthorizationResources;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Keycloak.Net
+namespace Sdcb.Keycloak
 {
     public partial class KeycloakClient
     {

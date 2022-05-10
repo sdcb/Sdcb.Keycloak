@@ -2,10 +2,10 @@
 using System.IO;
 using System.Threading.Tasks;
 using Flurl.Http;
-using Keycloak.Net.Models.Common;
-using Keycloak.Net.Models.IdentityProviders;
+using Sdcb.Keycloak.Models.Common;
+using Sdcb.Keycloak.Models.IdentityProviders;
 
-namespace Keycloak.Net
+namespace Sdcb.Keycloak
 {
     public partial class KeycloakClient
     {

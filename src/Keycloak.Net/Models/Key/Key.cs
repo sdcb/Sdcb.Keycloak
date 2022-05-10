@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.Key
+namespace Sdcb.Keycloak.Models.Key
 {
     public class Key
     {

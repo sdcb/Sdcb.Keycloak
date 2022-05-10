@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.Clients
+namespace Sdcb.Keycloak.Models.Clients
 {
     public class Resource
     {

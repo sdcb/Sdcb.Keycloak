@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Flurl.Http;
-using Keycloak.Net.Common.Extensions;
-using Keycloak.Net.Models.Common;
-using Keycloak.Net.Models.Groups;
-using Keycloak.Net.Models.Users;
+using Sdcb.Keycloak.Common.Extensions;
+using Sdcb.Keycloak.Models.Common;
+using Sdcb.Keycloak.Models.Groups;
+using Sdcb.Keycloak.Models.Users;
 
-namespace Keycloak.Net
+namespace Sdcb.Keycloak
 {
     public partial class KeycloakClient
     {

@@ -1,4 +1,4 @@
-﻿namespace Keycloak.Net.Models.RealmsAdmin
+﻿namespace Sdcb.Keycloak.Models.RealmsAdmin
 {
     public enum Policies
     {

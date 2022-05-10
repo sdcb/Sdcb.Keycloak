@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.AttackDetection
+namespace Sdcb.Keycloak.Models.AttackDetection
 {
     public class UserNameStatus
     {

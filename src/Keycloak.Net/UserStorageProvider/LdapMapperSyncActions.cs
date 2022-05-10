@@ -1,4 +1,4 @@
-﻿namespace Keycloak.Net
+﻿namespace Sdcb.Keycloak
 {
     public enum LdapMapperSyncActions
     {

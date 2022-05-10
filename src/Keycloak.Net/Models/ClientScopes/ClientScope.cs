@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Keycloak.Net.Models.ProtocolMappers;
+using Sdcb.Keycloak.Models.ProtocolMappers;
 using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.ClientScopes
+namespace Sdcb.Keycloak.Models.ClientScopes
 {
     public class ClientScope
     {

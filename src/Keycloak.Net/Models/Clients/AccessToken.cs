@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Keycloak.Net.Common.Converters;
+using Sdcb.Keycloak.Common.Converters;
 using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.Clients
+namespace Sdcb.Keycloak.Models.Clients
 {
     public class AccessToken
     {

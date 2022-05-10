@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Xunit;
 
-namespace Keycloak.Net.Tests
+namespace Sdcb.Keycloak.Tests
 {
     public partial class KeycloakClientShould
     {

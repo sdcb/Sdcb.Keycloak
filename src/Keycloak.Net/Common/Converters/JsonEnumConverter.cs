@@ -4,7 +4,7 @@ using System.Linq;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Keycloak.Net.Common.Converters
+namespace Sdcb.Keycloak.Common.Converters
 {
     public abstract class JsonEnumConverter<TEnum> : JsonConverter
         where TEnum : struct, IConvertible

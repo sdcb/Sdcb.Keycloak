@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
 using Flurl.Http;
-using Keycloak.Net.Models.Root;
+using Sdcb.Keycloak.Models.Root;
 
-namespace Keycloak.Net
+namespace Sdcb.Keycloak
 {
     public partial class KeycloakClient
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Keycloak.Net.Common.Extensions
+namespace Sdcb.Keycloak.Common.Extensions
 {
     public static class DynamicExtensions
     {

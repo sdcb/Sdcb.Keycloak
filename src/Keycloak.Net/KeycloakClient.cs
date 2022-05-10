@@ -2,11 +2,11 @@
 using Flurl;
 using Flurl.Http;
 using Flurl.Http.Configuration;
-using Keycloak.Net.Common.Extensions;
+using Sdcb.Keycloak.Common.Extensions;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Keycloak.Net
+namespace Sdcb.Keycloak
 {
     public partial class KeycloakClient
     {

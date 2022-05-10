@@ -1,7 +1,7 @@
-﻿using Keycloak.Net.Common.Converters;
+﻿using Sdcb.Keycloak.Common.Converters;
 using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.Root
+namespace Sdcb.Keycloak.Models.Root
 {
     [JsonConverter(typeof(LocaleConverter))]
     public enum Locale

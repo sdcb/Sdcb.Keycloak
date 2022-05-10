@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Keycloak.Net\Keycloak.Net.csproj" />
+    <ProjectReference Include="..\..\src\Keycloak.Net\Sdcb.Keycloak.csproj" />
   </ItemGroup>
 
   <ItemGroup>

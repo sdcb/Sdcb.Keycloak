@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Flurl.Http;
-using Keycloak.Net.Common.Extensions;
-using Keycloak.Net.Models.Clients;
-using Keycloak.Net.Models.ClientScopes;
-using Keycloak.Net.Models.Common;
-using Keycloak.Net.Models.Roles;
-using Keycloak.Net.Models.Root;
-using Keycloak.Net.Models.Users;
+using Sdcb.Keycloak.Common.Extensions;
+using Sdcb.Keycloak.Models.Clients;
+using Sdcb.Keycloak.Models.ClientScopes;
+using Sdcb.Keycloak.Models.Common;
+using Sdcb.Keycloak.Models.Roles;
+using Sdcb.Keycloak.Models.Root;
+using Sdcb.Keycloak.Models.Users;
 
-namespace Keycloak.Net
+namespace Sdcb.Keycloak
 {
     public partial class KeycloakClient
     {

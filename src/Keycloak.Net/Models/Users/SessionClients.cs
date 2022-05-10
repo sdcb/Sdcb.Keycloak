@@ -1,4 +1,4 @@
-﻿namespace Keycloak.Net.Models.Users
+﻿namespace Sdcb.Keycloak.Models.Users
 {
     public class SessionClients
     {

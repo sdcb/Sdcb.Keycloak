@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.Common
+namespace Sdcb.Keycloak.Models.Common
 {
     public class ManagementPermission
     {

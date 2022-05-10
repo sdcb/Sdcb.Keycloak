@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Flurl.Http;
-using Keycloak.Net.Models.ClientInitialAccess;
+using Sdcb.Keycloak.Models.ClientInitialAccess;
 
-namespace Keycloak.Net
+namespace Sdcb.Keycloak
 {
     public partial class KeycloakClient
     {

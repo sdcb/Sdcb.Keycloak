@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Keycloak.Net.Models.Roles;
+using Sdcb.Keycloak.Models.Roles;
 using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.RealmsAdmin
+namespace Sdcb.Keycloak.Models.RealmsAdmin
 {
     public class Roles
     {

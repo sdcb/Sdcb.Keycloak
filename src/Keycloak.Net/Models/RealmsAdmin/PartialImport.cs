@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
-using Keycloak.Net.Common.Converters;
-using Keycloak.Net.Models.Clients;
-using Keycloak.Net.Models.Groups;
-using Keycloak.Net.Models.Users;
+using Sdcb.Keycloak.Common.Converters;
+using Sdcb.Keycloak.Models.Clients;
+using Sdcb.Keycloak.Models.Groups;
+using Sdcb.Keycloak.Models.Users;
 using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.RealmsAdmin
+namespace Sdcb.Keycloak.Models.RealmsAdmin
 {
     public class PartialImport
     {

@@ -1,13 +1,13 @@
 ﻿using Flurl.Http;
-using Keycloak.Net.Models.AuthorizationPermissions;
-using Keycloak.Net.Models.AuthorizationScopes;
-using Keycloak.Net.Models.Clients;
+using Sdcb.Keycloak.Models.AuthorizationPermissions;
+using Sdcb.Keycloak.Models.AuthorizationScopes;
+using Sdcb.Keycloak.Models.Clients;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using AuthorizationResource = Keycloak.Net.Models.AuthorizationResources.AuthorizationResource;
+using AuthorizationResource = Sdcb.Keycloak.Models.AuthorizationResources.AuthorizationResource;
 
-namespace Keycloak.Net
+namespace Sdcb.Keycloak
 {
     public partial class KeycloakClient
     {

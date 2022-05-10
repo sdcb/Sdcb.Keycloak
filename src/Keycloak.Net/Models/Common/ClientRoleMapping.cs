@@ -1,8 +1,8 @@
-﻿using Keycloak.Net.Models.Roles;
+﻿using Sdcb.Keycloak.Models.Roles;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace Keycloak.Net.Models.Common
+namespace Sdcb.Keycloak.Models.Common
 {
     public class ClientRoleMapping
     {

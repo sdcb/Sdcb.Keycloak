@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using Keycloak.Net.Common.Converters;
-using Keycloak.Net.Models.AuthorizationPermissions;
+using Sdcb.Keycloak.Common.Converters;
+using Sdcb.Keycloak.Models.AuthorizationPermissions;
 using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.Clients
+namespace Sdcb.Keycloak.Models.Clients
 {
     public class Policy
     {

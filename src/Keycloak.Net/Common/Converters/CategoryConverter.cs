@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Keycloak.Net.Models.Root;
+using Sdcb.Keycloak.Models.Root;
 
-namespace Keycloak.Net.Common.Converters
+namespace Sdcb.Keycloak.Common.Converters
 {
     public class CategoryConverter : JsonEnumConverter<Category>
     {

@@ -1,4 +1,4 @@
-﻿namespace Keycloak.Net.Models.Root
+﻿namespace Sdcb.Keycloak.Models.Root
 {
     public class MetadataClass
     {

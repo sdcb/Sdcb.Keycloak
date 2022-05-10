@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Keycloak.Net.Common.Converters;
+using Sdcb.Keycloak.Common.Converters;
 using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.AuthorizationPermissions
+namespace Sdcb.Keycloak.Models.AuthorizationPermissions
 {
     public class AuthorizationPermission
     {

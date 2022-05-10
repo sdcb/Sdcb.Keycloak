@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Keycloak.Net.Models.ProtocolMappers
+namespace Sdcb.Keycloak.Models.ProtocolMappers
 {
     public class ProtocolMapper
     {

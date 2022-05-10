@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Keycloak.Net.Models.Clients;
+using Sdcb.Keycloak.Models.Clients;
 
-namespace Keycloak.Net.Common.Converters
+namespace Sdcb.Keycloak.Common.Converters
 {
     public class PolicyTypeConverter: JsonEnumConverter<PolicyType>
     {

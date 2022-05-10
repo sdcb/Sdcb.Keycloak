@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Keycloak.Net.Models.OpenIDConfiguration
+namespace Sdcb.Keycloak.Models.OpenIDConfiguration
 {
     public class OpenIDConfiguration
     {

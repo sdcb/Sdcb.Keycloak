@@ -2,13 +2,13 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 using Flurl.Http;
-using Keycloak.Net.Models.Clients;
-using Keycloak.Net.Models.ClientScopes;
-using Keycloak.Net.Models.Common;
-using Keycloak.Net.Models.Groups;
-using Keycloak.Net.Models.RealmsAdmin;
+using Sdcb.Keycloak.Models.Clients;
+using Sdcb.Keycloak.Models.ClientScopes;
+using Sdcb.Keycloak.Models.Common;
+using Sdcb.Keycloak.Models.Groups;
+using Sdcb.Keycloak.Models.RealmsAdmin;
 
-namespace Keycloak.Net
+namespace Sdcb.Keycloak
 {
     public partial class KeycloakClient
     {
