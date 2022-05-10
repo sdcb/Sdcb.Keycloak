@@ -4,7 +4,7 @@
     <TargetFrameworks>net6</TargetFrameworks>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <Authors>Luk Vermeulen</Authors>
+    <Authors>Luk Vermeulen, Sdcb</Authors>
     <Copyright>Copyright 2022 by Luk Vermeulen, Sdcb. All rights reserved.</Copyright>
     <PackageProjectUrl>https://github.com/sdcb/Sdcb.Keycloak</PackageProjectUrl>
     <RepositoryUrl>https://github.com/sdcb/Sdcb.Keycloak</RepositoryUrl>
@@ -15,8 +15,8 @@
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <Version>1.0.19</Version>
-    <PackageLicenseFile>.\LICENSE</PackageLicenseFile>
     <PackageIcon>keycloak_icon_512px.png</PackageIcon>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
