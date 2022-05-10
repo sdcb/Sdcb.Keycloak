@@ -6,15 +6,11 @@
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Authors>Luk Vermeulen</Authors>
     <Copyright>Copyright 2022 by Luk Vermeulen, Sdcb. All rights reserved.</Copyright>
-    <PackageLicenseUrl>https://github.com/sdcb/Sdcb.Keycloak/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/sdcb/Sdcb.Keycloak</PackageProjectUrl>
     <RepositoryUrl>https://github.com/sdcb/Sdcb.Keycloak</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>keycloak</PackageTags>
-    <PackageIconUrl>https://i.imgur.com/eEjfRLz.jpg?2</PackageIconUrl>
     <Description>C# client for Keycloak</Description>
-    <SignAssembly>False</SignAssembly>
-    <AssemblyOriginatorKeyFile>..\..\Keycloak.Net.snk</AssemblyOriginatorKeyFile>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
