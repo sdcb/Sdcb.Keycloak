@@ -5,7 +5,7 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Authors>Luk Vermeulen</Authors>
-    <Copyright>Copyright 2019 by Luk Vermeulen. All rights reserved.</Copyright>
+    <Copyright>Copyright 2022 by Luk Vermeulen, Sdcb. All rights reserved.</Copyright>
     <PackageLicenseUrl>https://github.com/sdcb/Sdcb.Keycloak/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/sdcb/Sdcb.Keycloak</PackageProjectUrl>
     <RepositoryUrl>https://github.com/sdcb/Sdcb.Keycloak</RepositoryUrl>
@@ -18,6 +18,9 @@
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <Version>1.0.19</Version>
+    <PackageLicenseFile>.\LICENSE</PackageLicenseFile>
+    <PackageIcon>keycloak_icon_512px.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -26,6 +29,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="..\..\keycloak_icon_512px.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
     <None Include="..\..\README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
